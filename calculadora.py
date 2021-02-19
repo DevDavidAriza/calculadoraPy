@@ -1,5 +1,5 @@
 # se cambia la lista desplegable por botones de radio
-from tkinter import Tk, Entry, Grid, mainloop, Button, Label, IntVar
+from QT import Tk, Entry, Grid, mainloop, Button, Label, IntVar
 from tkinter.ttk import Radiobutton # para agregar los de combobox
 def click():
 v1 = n1.get()
